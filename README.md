@@ -12,7 +12,7 @@ Simply run `yarn start` in the app's root directory
   
 # Future Features
 
-- [ ] Add Pagination
-- [ ] Add Favoriting 
+- [ ] Pagination
+- [ ] Favoriting 
 
  
