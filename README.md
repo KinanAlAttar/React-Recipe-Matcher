@@ -14,5 +14,6 @@ Simply run `yarn start` in the app's root directory
 
 - [ ] Pagination
 - [ ] Favoriting 
+- [x] Handle missing thumbnails
 
  
