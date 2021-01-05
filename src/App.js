@@ -32,7 +32,7 @@ export default class App extends React.Component {
         <form onSubmit = {this.handleSubmit}>
           <div className = "form-group mb-2">
             <label>
-              Query the API:
+              Enter Type Of Dish:
               <input 
                 name        = "query"
                 value       = {this.state.query}
@@ -45,7 +45,7 @@ export default class App extends React.Component {
           </div>
           <div className = "form-group mb-2">
             <label> 
-              Enter ingredients:
+              Enter Ingredients:
               <input 
                 name        = "ingredients"
                 value       = {this.state.ingredients}
